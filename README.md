@@ -1,5 +1,5 @@
 # CompailerConstruction
-My First Language Frontend with LLVM Tutorial
+This project is part of the Compiler Construction course and follows the LLVM Kaleidoscope tutorial. However, instead of implementing the Kaleidoscope language, it adapts the tutorial to the F# programming language syntax.
 
 In Chapter 1, a lexer was implemented to break input text into tokens—an essential first step in compiler construction.
 
